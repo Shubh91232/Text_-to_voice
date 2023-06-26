@@ -1,3 +1,4 @@
+# !pip install gTTS 
 from gtts import gTTS
 
 def text_to_speech(text, filename, lang='en', voice='default'):
